@@ -35,3 +35,11 @@ More info about dataset can be found here:
 ## Data Model
 <img src="Data Model.png">
 
+## Demo Video
+
+a demo video demonstrating the working of this project is as follows:
+
+https://www.veed.io/edit/4e5fc891-c692-4418-b076-45a9b23cef8d/video
+
+
+
